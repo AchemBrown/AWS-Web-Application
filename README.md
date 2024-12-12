@@ -10,5 +10,5 @@ Created Security Group to control inbound and outbound traffic. Added and inboun
 ### Apache Web Server
 Connected to the running EC2 instance using SSH.
 Updated the system by using sudo yum update -y
-Installed Apache and verified if its works.
-![Apache Server](<../../../Desktop/Screenshot 2024-12-12 at 2.52.09 PM.png>)
+Installed Apache and verified if its works. 
+![Apache Server](<Screenshot 2024-12-12 at 2.52.09 PM.png>)
